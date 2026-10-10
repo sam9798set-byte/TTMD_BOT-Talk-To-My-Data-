@@ -53,11 +53,11 @@ from ttmd_examples import EXAMPLES
 # =====================================================================
 # SETTINGS: edit these (paste your key and password below)
 # =====================================================================
-GROQ_KEY = "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"          # <- paste your Groq API key between the quotes
+GROQ_KEY = "YOUR GROK KEY"          # <- paste your Groq API key between the quotes
 MODEL = "openai/gpt-oss-120b"
 
 DB_USER = "root"
-DB_PASSWORD = "R@hulisGr8"      # <- paste your MySQL password between the quotes
+DB_PASSWORD = "YOUR DB PASSWORD"      # <- paste your MySQL password between the quotes
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_NAME = "ttmd"
